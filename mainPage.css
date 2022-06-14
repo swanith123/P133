@@ -1,0 +1,30 @@
+#logOutButton{
+    width: 125px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 2400px;
+}
+
+body{
+    background-size: cover;
+    background-position: center; 
+    font-family: 'Cabin', sans-serif;
+}
+
+#Status{
+    width: 125px;
+    height: 50px;
+    font-size: 25px;
+    margin-top: 50px;
+}
+
+#statement{
+    font-size: 18px; 
+}
+
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+}
